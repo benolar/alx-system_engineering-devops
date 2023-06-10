@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ chown guillaume hello ] then echo 'chown betty hello'
+if [ u=guillaume hello ] then chown betty hello fi
