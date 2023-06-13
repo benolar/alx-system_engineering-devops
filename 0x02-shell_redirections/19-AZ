@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "HTML5\ncSS\nJavascript\nPython\nJAVA\nFlutter\nC++\nC#" | cat > AZ & sed -i 's/A/Z/g' AZ & sed -i 's/c/e/g' AZ
