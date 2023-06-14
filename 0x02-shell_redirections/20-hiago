@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "HTML5\ncSS\nJavascript\nJAVA\nC++\nC#\nPython" | cat > hiago & sed -i 's/c//g' hiago & sed -i 's/C//g' hiago
+echo 'Chicago' | tr -d 'cC'
