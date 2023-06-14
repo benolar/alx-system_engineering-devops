@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "HTML5\nCSS\nJavascript\nPython\nJAVA\nFlutter\nHtml5\nCSS\nPython\nFlutter" > list ; cat list | sort | uniq -u
+cat list | sort | uniq -u
