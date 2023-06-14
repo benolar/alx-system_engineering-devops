@@ -1,2 +1,2 @@
-#!/bin/bash
-rm . *.js
+i!/bin/bash
+rm . -type f *.js
