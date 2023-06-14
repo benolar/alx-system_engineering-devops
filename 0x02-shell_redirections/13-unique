@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "HTML5\nCSS\nJavascript\nPython\nJAVA\nFlutter\nHtml5\nCSS\nPython\nFlutter" | sort | uniq -u
+printf "HTML5\nCSS\nJavascript\nPython\nJAVA\nFlutter\nHtml5\nCSS\nPython\nFlutter" | sort | uniq -u
